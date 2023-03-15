@@ -11,8 +11,8 @@
 
 ## **Librería:** 
 
-*   **plyer **
-*   **time **
+*   **plyer**
+*   **time**
 
 ## **Documentación:** 
 
